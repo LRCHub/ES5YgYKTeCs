@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ムーンウォークフィーバー",
+  "base_artist": "日向電工",
+  "createdAt": "2026-02-12T10:17:22.243665Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムーンウォークフィーバー",
+      "artist": "日向電工",
+      "has_synced": false,
+      "path": "select/pl_01_ムーンウォークフィーバー_日向電工.txt"
+    }
+  ]
+}
